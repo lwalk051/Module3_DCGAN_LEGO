@@ -1,0 +1,16 @@
+{
+  "epochs_requested": 20,
+  "batch_size": 64,
+  "learning_rate": 0.0002,
+  "beta_1": 0.5,
+  "latent_dim": 128,
+  "dataset_images": 46384,
+  "dataset_path": "/home/lwalk051/.cache/kagglehub/datasets/joosthazelzet/lego-brick-images/versions/4",
+  "seed": 42,
+  "tensorflow": "2.16.2",
+  "python": "3.10.14",
+  "platform": "Linux-4.18.0-553.182.1.el8_10.x86_64-x86_64-with-glibc2.34",
+  "gpus": [
+    "PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')"
+  ]
+}

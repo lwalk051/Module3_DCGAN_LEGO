@@ -1,0 +1,17 @@
+{
+  "epochs_completed": 20,
+  "training_steps": 14500,
+  "total_training_seconds": 2656.06,
+  "generator_first_last": [
+    1.0097644504647831,
+    0.9819109346126688
+  ],
+  "discriminator_first_last": [
+    1.186692327754251,
+    1.2443833111894542
+  ],
+  "generator_direction_reversals": 8,
+  "discriminator_direction_reversals": 5,
+  "final_sample_mean_pairwise_pixel_rmse": 0.2644461393356323,
+  "final_sample_min_pairwise_pixel_rmse": 0.11181779205799103
+}
